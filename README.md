@@ -4,11 +4,13 @@ Desktop version of Replika AI.
 
 ## 🚀 Get started
 
-1. Go to the [Release Page](https://github.com/n0ct3ri4/replika-desktop/releases) and download the `replika-win32.exe` file.
+1. Go to the [Release Page](https://github.com/n0ct3ri4/replika-desktop/releases) and download the `replika-desktop-win32-x64.zip` file.
 
-2. Launch the file and follow the setup instuctions.
+2. Unzip in a directory.
 
-3. Start Replika from the start menu (or the desktop), login and enjoy!
+3. Right click on the `replika-desktop.exe` and choose "Send to > Desktop (Shortcut)"
+
+4. Start Replika, login and enjoy!
 
 ## 🌐 [Replika's Website](https://replika.ai)
 
