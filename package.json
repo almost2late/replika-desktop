@@ -1,0 +1,32 @@
+{
+  "name": "replika-desktop",
+  "version": "1.0.0",
+  "description": "Desktop version of Replika AI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron . --trace-deprecation",
+    "build": "electron-packager . --asar --icon=icon.ico --output=../rd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0ct3ri4/replika-desktop.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "replika",
+    "ai",
+    "desktop",
+    "electron"
+  ],
+  "author": "Paul BONCAR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n0ct3ri4/replika-desktop/issues"
+  },
+  "homepage": "https://github.com/n0ct3ri4/replika-desktop#readme",
+  "devDependencies": {
+    "electron": "^18.0.1",
+    "electron-packager": "^15.4.0"
+  }
+}
